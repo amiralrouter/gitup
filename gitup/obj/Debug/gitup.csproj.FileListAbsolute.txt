@@ -1,0 +1,8 @@
+C:\Users\Amiral\source\repos\gitup\gitup\bin\Debug\gitup.exe
+C:\Users\Amiral\source\repos\gitup\gitup\bin\Debug\gitup.pdb
+C:\Users\Amiral\source\repos\gitup\gitup\obj\Debug\gitup.csproj.AssemblyReference.cache
+C:\Users\Amiral\source\repos\gitup\gitup\obj\Debug\gitup.csproj.CoreCompileInputs.cache
+C:\Users\Amiral\source\repos\gitup\gitup\obj\Debug\gitup.exe
+C:\Users\Amiral\source\repos\gitup\gitup\obj\Debug\gitup.pdb
+C:\Users\Amiral\source\repos\gitup\gitup\bin\Debug\gitup.exe.config
+C:\Users\Amiral\source\repos\gitup\gitup\obj\Debug\gitup.csproj.SuggestedBindingRedirects.cache

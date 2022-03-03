@@ -1,0 +1,7 @@
+C:\Users\Amiral\source\repos\gitup\gitup\bin\Release\gitup.exe.config
+C:\Users\Amiral\source\repos\gitup\gitup\bin\Release\gitup.exe
+C:\Users\Amiral\source\repos\gitup\gitup\bin\Release\gitup.pdb
+C:\Users\Amiral\source\repos\gitup\gitup\obj\Release\gitup.csproj.AssemblyReference.cache
+C:\Users\Amiral\source\repos\gitup\gitup\obj\Release\gitup.csproj.CoreCompileInputs.cache
+C:\Users\Amiral\source\repos\gitup\gitup\obj\Release\gitup.exe
+C:\Users\Amiral\source\repos\gitup\gitup\obj\Release\gitup.pdb
